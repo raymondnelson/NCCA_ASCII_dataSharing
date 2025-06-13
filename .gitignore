@@ -1,0 +1,4 @@
+*.Log
+*.RData
+#.tmp
+.DS_Store
